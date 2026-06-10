@@ -1,1 +1,3 @@
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Anar085/project_5_machine_learning_stock_prediction_rnn_vs_lr/main/paper/EE%20-%20Comparative%20Analysis%20of%20Recurrent%20Neural%20Networks%20and%20Logistic%20Regression%20Models%20in%20Stock%20Price%20Prediction.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe> 
+# Comparative Analysis of RNNs and Logistic Regression Models
+
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Anar085/project_5_machine_learning_stock_prediction_rnn_vs_lr/main/paper/essay.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
