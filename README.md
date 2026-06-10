@@ -1,3 +1,4 @@
-# Comparative Analysis of RNNs and Logistic Regression Models
+## 📄 Full Research Paper
+If your browser restricts interactive document previews, you can read the complete text directly:
 
-<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/Anar085/project_5_machine_learning_stock_prediction_rnn_vs_lr/main/paper/essay.pdf&embedded=true" style="width:100%; height:800px;" frameborder="0"></iframe>
+[![Read Document](https://img.shields.io/badge/Open%20Research%20Paper-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](paper/essay.pdf)
